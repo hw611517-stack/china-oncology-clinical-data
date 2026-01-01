@@ -26,8 +26,7 @@ for research, statistical analysis, and educational purposes.
 | Steroid_Use | Steroid use (1 = yes, 0 = no) |
 
 ## Ethical Note
-All data are anonymized and synthetically generated for research and educational use only.
-No real patient-identifiable information is included.
+This dataset contains clinical information collected from a hospital setting in china. All patient records have been fully anonymized and de‑identified in accordance with data privacy and ethical guidelines.
 
 ## Potential Use Cases
 - Clinical data analysis
